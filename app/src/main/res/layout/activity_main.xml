@@ -37,6 +37,7 @@
         android:layout_weight="1"
         android:background="@color/teal_700"
         android:text="@string/show_another_fun_facts"
+        android:textColor="@color/teal_200"
         app:backgroundTint="@color/teal_700" />
 
 </RelativeLayout>
