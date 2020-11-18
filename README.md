@@ -8,6 +8,8 @@
 
 Simple Android application to randomly show fun facts. Practice of working in Android Studio.
 
+<img src="funfact.png"/><br>
+
 ## Known Bugs
 
 _No known bags_
